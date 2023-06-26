@@ -1,0 +1,348 @@
+--- Terminal on /dev/cu.usbserial-75522DB4F6 | 115200 8-N-1
+--- Available filters and text transformations: colorize, debug, default, direct, esp32_exception_decoder, hexlify, log2file, nocontrol, printable, send_on_enter, time
+--- More details at https://bit.ly/pio-monitor-filters
+--- Quit: Ctrl+C | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "New advertiser: 38:32:4b:14:03:70"
+Advertised Device: Name: , Address: 38:32:4b:14:03:70, manufacturer data: 4c0009060359ac10006a 
+TheengsDecoder found device: {"id":"38:32:4B:14:03:70","manufacturerdata":"4c0009060359ac10006a","rssi":-78,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: 38:32:4b:14:03:70"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "New advertiser: a4:c1:38:9a:a7:24"
+I NimBLEScan: "Updated advertiser: a4:c1:38:9a:a7:24"
+Advertised Device: Name: 032240133, Address: a4:c1:38:9a:a7:24, manufacturer data: 24a79a38c1a4, serviceUUID: 0xff00 
+TheengsDecoder found device: {"id":"A4:C1:38:9A:A7:24","name":"032240133","manufacturerdata":"24a79a38c1a4","rssi":-78}
+D NimBLEScan: "erase device: a4:c1:38:9a:a7:24"
+I NimBLEScan: "Updated advertiser: 4d:a5:b4:31:c6:6e"
+I NimBLEScan: "New advertiser: 24:9f:89:50:fb:67"
+I NimBLEScan: "New advertiser: fc:45:c3:bc:da:a9"
+I NimBLEScan: "Updated advertiser: fc:45:c3:bc:da:a9"
+Advertised Device: Name: ݥ, Address: fc:45:c3:bc:da:a9, manufacturer data: 0000fc45c3bcdaa9, serviceUUID: 0xffe0 
+TheengsDecoder found device: {"id":"FC:45:C3:BC:DA:A9","name":"ݥ","manufacturerdata":"0000fc45c3bcdaa9","rssi":-93}
+D NimBLEScan: "erase device: fc:45:c3:bc:da:a9"
+I NimBLEScan: "Updated advertiser: 4d:a5:b4:31:c6:6e"
+Advertised Device: Name: , Address: 4d:a5:b4:31:c6:6e, manufacturer data: 4c001006421ddda85278 
+TheengsDecoder found device: {"id":"4D:A5:B4:31:C6:6E","manufacturerdata":"4c001006421ddda85278","rssi":-68,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: 4d:a5:b4:31:c6:6e"
+I NimBLEScan: "Updated advertiser: 5c:03:c6:de:62:51"
+I NimBLEScan: "New advertiser: 72:f1:e0:94:f5:58"
+I NimBLEScan: "New advertiser: dc:23:4d:eb:7d:14"
+I NimBLEScan: "Updated advertiser: dc:23:4d:eb:7d:14"
+Advertised Device: Name: TY, Address: dc:23:4d:eb:7d:14, manufacturer data: d0078003000001005fb0fcf6bdcde7ae924d27f19b24564a, serviceUUID: 0xa201
+Service Data:
+UUID: 0xa201, Data:  
+TheengsDecoder found device: {"id":"DC:23:4D:EB:7D:14","name":"TY","manufacturerdata":"d0078003000001005fb0fcf6bdcde7ae924d27f19b24564a","rssi":-82,"servicedata":"001245102f96e701bb","servicedatauuid":"0xa201"}
+D NimBLEScan: "erase device: dc:23:4d:eb:7d:14"
+I NimBLEScan: "New advertiser: 38:1e:c7:81:c6:3c"
+I NimBLEScan: "Updated advertiser: 38:1e:c7:81:c6:3c"
+Advertised Device: Name: MIBFS, Address: 38:1e:c7:81:c6:3c, manufacturer data: 5701381ec781c63c, serviceUUID: 0x181b
+Service Data:
+UUID: 0x181b, Data: ��) 
+TheengsDecoder found device: {"id":"38:1E:C7:81:C6:3C","name":"MIBFS","manufacturerdata":"5701381ec781c63c","rssi":-90,"servicedata":"0284b207010416291f00000a14","servicedatauuid":"0x181b"}
+D NimBLEScan: "erase device: 38:1e:c7:81:c6:3c"
+I NimBLEScan: "New advertiser: 38:32:4b:14:03:70"
+Advertised Device: Name: , Address: 38:32:4b:14:03:70, manufacturer data: 4c0009060359ac10006a 
+TheengsDecoder found device: {"id":"38:32:4B:14:03:70","manufacturerdata":"4c0009060359ac10006a","rssi":-72,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: 38:32:4b:14:03:70"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "New advertiser: e7:3f:13:9c:2b:e1"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "New advertiser: e4:51:89:db:6b:24"
+Advertised Device: Name: , Address: e4:51:89:db:6b:24, manufacturer data: 4c0012020001 
+TheengsDecoder found device: {"id":"E4:51:89:DB:6B:24","manufacturerdata":"4c0012020001","rssi":-67,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: e4:51:89:db:6b:24"
+I NimBLEScan: "New advertiser: dc:23:4d:59:a9:fa"
+I NimBLEScan: "Updated advertiser: dc:23:4d:59:a9:fa"
+Advertised Device: Name: TY, Address: dc:23:4d:59:a9:fa, manufacturer data: d007800300000100c0fef653b651f090506fd8676312ef4b, serviceUUID: 0xa201
+Service Data:
+UUID: 0xa201, Data:  
+TheengsDecoder found device: {"id":"DC:23:4D:59:A9:FA","name":"TY","manufacturerdata":"d007800300000100c0fef653b651f090506fd8676312ef4b","rssi":-87,"servicedata":"0098d1df1a11b2a14d","servicedatauuid":"0xa201"}
+D NimBLEScan: "erase device: dc:23:4d:59:a9:fa"
+I NimBLEScan: "New advertiser: c9:69:81:7a:d1:6c"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+Advertised Device: Name: HOTAIR E54D, Address: e6:91:df:7b:e5:4d, manufacturer data: 990405104c9c3fa68ffcf8ffd8fe3c9cf65fb115e691df7be54d, serviceUUID: 6e400001-b5a3-f393-e0a9-e50e24dcca9e 
+TheengsDecoder found device: {"id":"E6:91:DF:7B:E5:4D","name":"HOTAIR E54D","manufacturerdata":"990405104c9c3fa68ffcf8ffd8fe3c9cf65fb115e691df7be54d","rssi":-86,"brand":"Ruuvi","model":"RuuviTag","model_id":"RuuviTag_RAWv2","type":"ACEL","track":true,"tempc":20.86,"tempf":69.548,"hum":99.9975,"pres":926.39,"accx":-0.76099604,"accy":-0.0392266,"accz":-0.44326058,"volt":2.855,"tx":4,"mov":95,"seq":45333,"mac":"E6:91:DF:7B:E5:4D"}
+D NimBLEScan: "erase device: e6:91:df:7b:e5:4d"
+I NimBLEScan: "New advertiser: c1:d7:45:64:29:f9"
+Advertised Device: Name: , Address: c1:d7:45:64:29:f9, manufacturer data: 4c0012020000 
+TheengsDecoder found device: {"id":"C1:D7:45:64:29:F9","manufacturerdata":"4c0012020000","rssi":-71,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: c1:d7:45:64:29:f9"
+I NimBLEScan: "New advertiser: df:4d:32:f5:08:ba"
+I NimBLEScan: "Updated advertiser: df:4d:32:f5:08:ba"
+Advertised Device: Name: Amazfit Bip U Pro, Address: df:4d:32:f5:08:ba, manufacturer data: 570102ffffffffffffffffffffffffffffffff03df4d32f508ba, serviceUUID: 0xfee0
+Service Data:
+UUID: 0xfee0, Data:  
+TheengsDecoder found device: {"id":"DF:4D:32:F5:08:BA","name":"Amazfit Bip U Pro","manufacturerdata":"570102ffffffffffffffffffffffffffffffff03df4d32f508ba","rssi":-67,"servicedata":"00000000","servicedatauuid":"0xfee0","brand":"Xiaomi/Amazfit","model":"Mi Band/Smart Watch","model_id":"MB/SW","type":"BODY","acts":true,"track":true,"steps":0,"device":"Xiaomi/Amazfit Tracker","mac":"DF:4D:32:F5:08:BA"}
+D NimBLEScan: "erase device: df:4d:32:f5:08:ba"
+I NimBLEScan: "Updated advertiser: e7:3f:13:9c:2b:e1"
+Advertised Device: Name: , Address: e7:3f:13:9c:2b:e1, manufacturer data: cc0900000000e73f139c2be1, serviceUUID: 0x7081 
+TheengsDecoder found device: {"id":"E7:3F:13:9C:2B:E1","manufacturerdata":"cc0900000000e73f139c2be1","rssi":-78}
+D NimBLEScan: "erase device: e7:3f:13:9c:2b:e1"
+I NimBLEScan: "Updated advertiser: 24:9f:89:50:fb:67"
+Advertised Device: Name: T�000032224129, Address: 24:9f:89:50:fb:67, manufacturer data: 0028d2bd235129db0942, serviceUUID: 0x0a00 
+TheengsDecoder found device: {"id":"24:9F:89:50:FB:67","name":"T�000032224129","manufacturerdata":"0028d2bd235129db0942","rssi":-75}
+D NimBLEScan: "erase device: 24:9f:89:50:fb:67"
+I NimBLEScan: "New advertiser: dc:23:4d:a6:18:f6"
+I NimBLEScan: "Updated advertiser: dc:23:4d:a6:18:f6"
+Advertised Device: Name: TY, Address: dc:23:4d:a6:18:f6, manufacturer data: d007800300000100b8e2285207147187fdd24ac5bebccb36, serviceUUID: 0xa201
+Service Data:
+UUID: 0xa201, Data:  
+TheengsDecoder found device: {"id":"DC:23:4D:A6:18:F6","name":"TY","manufacturerdata":"d007800300000100b8e2285207147187fdd24ac5bebccb36","rssi":-80,"servicedata":"0066b471f84195bd28","servicedatauuid":"0xa201"}
+D NimBLEScan: "erase device: dc:23:4d:a6:18:f6"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+Advertised Device: Name: Ruuvi BDA2, Address: dd:79:c6:8f:bd:a2, manufacturer data: 990405107381a3ffff01a803a000247716b6912ddd79c68fbda2, serviceUUID: 6e400001-b5a3-f393-e0a9-e50e24dcca9e 
+TheengsDecoder found device: {"id":"DD:79:C6:8F:BD:A2","name":"Ruuvi BDA2","manufacturerdata":"990405107381a3ffff01a803a000247716b6912ddd79c68fbda2","rssi":-86,"brand":"Ruuvi","model":"RuuviTag","model_id":"RuuviTag_RAWv2","type":"ACEL","track":true,"tempc":21.055,"tempf":69.899,"hum":82.9675,"pres":1155.35,"accx":0.41580196,"accy":0.91005712,"accz":0.03530394,"volt":2.552,"tx":4,"mov":182,"seq":37165,"mac":"DD:79:C6:8F:BD:A2"}
+D NimBLEScan: "erase device: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+Advertised Device: Name: Ruuvi 38EF, Address: db:08:d3:33:38:ef, manufacturer data: 990405126f49ffffffff7cfff8fc10965669a2bddb08d33338ef, serviceUUID: 6e400001-b5a3-f393-e0a9-e50e24dcca9e 
+TheengsDecoder found device: {"id":"DB:08:D3:33:38:EF","name":"Ruuvi 38EF","manufacturerdata":"990405126f49ffffffff7cfff8fc10965669a2bddb08d33338ef","rssi":-87,"brand":"Ruuvi","model":"RuuviTag","model_id":"RuuviTag_RAWv2","type":"ACEL","track":true,"tempc":23.595,"tempf":74.471,"hum":47.3575,"pres":1155.35,"accx":-0.12944778,"accy":-0.00784532,"accz":-0.98851032,"volt":2.802,"tx":4,"mov":105,"seq":41661,"mac":"DB:08:D3:33:38:EF"}
+D NimBLEScan: "erase device: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "New advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "New advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: d4:07:d8:a3:32:0b"
+I NimBLEScan: "New advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "New advertiser: 4d:a5:b4:31:c6:6e"
+I NimBLEScan: "Updated advertiser: c9:69:81:7a:d1:6c"
+Advertised Device: Name: TESS 5600, Address: c9:69:81:7a:d1:6c, manufacturer data: 6cd17a8169c9, serviceUUID: f0000000-0451-4000-b000-000000000000 
+TheengsDecoder found device: {"id":"C9:69:81:7A:D1:6C","name":"TESS 5600","manufacturerdata":"6cd17a8169c9","rssi":-85}
+D NimBLEScan: "erase device: c9:69:81:7a:d1:6c"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: 5c:03:c6:de:62:51"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: 4d:a5:b4:31:c6:6e"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d4:07:d8:a3:32:0b"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: 5c:03:c6:de:62:51"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d4:07:d8:a3:32:0b"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: dd:79:c6:8f:bd:a2"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "Updated advertiser: d6:39:ae:4f:cd:0c"
+Advertised Device: Name: , Address: d6:39:ae:4f:cd:0c, manufacturer data: 590003554400004fcd0c807f, serviceUUID: 0xfee5 
+TheengsDecoder found device: {"id":"D6:39:AE:4F:CD:0C","manufacturerdata":"590003554400004fcd0c807f","rssi":-68,"brand":"Mopeka","model":"Pro Check Sensor","model_id":"M1017","type":"UNIQ","cidc":false,"tempc":28,"tempf":82.4,"lvl_cm":0,"lvl_in":0,"sync":false,"volt":2.65625,"batt":70.19230769,"quality":0,"accx":-128,"accy":127}
+D NimBLEScan: "erase device: d6:39:ae:4f:cd:0c"
+I NimBLEScan: "New advertiser: fc:45:c3:bc:da:a9"
+I NimBLEScan: "Updated advertiser: fc:45:c3:bc:da:a9"
+Advertised Device: Name: ݥ, Address: fc:45:c3:bc:da:a9, manufacturer data: 0000fc45c3bcdaa9, serviceUUID: 0xffe0 
+TheengsDecoder found device: {"id":"FC:45:C3:BC:DA:A9","name":"ݥ","manufacturerdata":"0000fc45c3bcdaa9","rssi":-88}
+D NimBLEScan: "erase device: fc:45:c3:bc:da:a9"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: d4:07:d8:a3:32:0b"
+I NimBLEScan: "New advertiser: a4:c1:38:9a:a7:24"
+I NimBLEScan: "Updated advertiser: a4:c1:38:9a:a7:24"
+Advertised Device: Name: 032240133, Address: a4:c1:38:9a:a7:24, manufacturer data: 24a79a38c1a4, serviceUUID: 0xff00 
+TheengsDecoder found device: {"id":"A4:C1:38:9A:A7:24","name":"032240133","manufacturerdata":"24a79a38c1a4","rssi":-88}
+D NimBLEScan: "erase device: a4:c1:38:9a:a7:24"
+I NimBLEScan: "New advertiser: 38:32:4b:14:03:70"
+Advertised Device: Name: , Address: 38:32:4b:14:03:70, manufacturer data: 4c0009060359ac10006a 
+TheengsDecoder found device: {"id":"38:32:4B:14:03:70","manufacturerdata":"4c0009060359ac10006a","rssi":-77,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: 38:32:4b:14:03:70"
+I NimBLEScan: "New advertiser: df:4d:32:f5:08:ba"
+I NimBLEScan: "Updated advertiser: df:4d:32:f5:08:ba"
+Advertised Device: Name: Amazfit Bip U Pro, Address: df:4d:32:f5:08:ba, manufacturer data: 570102ffffffffffffffffffffffffffffffff03df4d32f508ba, serviceUUID: 0xfee0
+Service Data:
+UUID: 0xfee0, Data:  
+TheengsDecoder found device: {"id":"DF:4D:32:F5:08:BA","name":"Amazfit Bip U Pro","manufacturerdata":"570102ffffffffffffffffffffffffffffffff03df4d32f508ba","rssi":-65,"servicedata":"00000000","servicedatauuid":"0xfee0","brand":"Xiaomi/Amazfit","model":"Mi Band/Smart Watch","model_id":"MB/SW","type":"BODY","acts":true,"track":true,"steps":0,"device":"Xiaomi/Amazfit Tracker","mac":"DF:4D:32:F5:08:BA"}
+D NimBLEScan: "erase device: df:4d:32:f5:08:ba"
+I NimBLEScan: "Updated advertiser: 72:f1:e0:94:f5:58"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: e6:91:df:7b:e5:4d"
+Advertised Device: Name: HOTAIR E54D, Address: e6:91:df:7b:e5:4d, manufacturer data: 990405104a9c3fa691fcf8ffd8fe309d565fb12be691df7be54d, serviceUUID: 6e400001-b5a3-f393-e0a9-e50e24dcca9e 
+TheengsDecoder found device: {"id":"E6:91:DF:7B:E5:4D","name":"HOTAIR E54D","manufacturerdata":"990405104a9c3fa691fcf8ffd8fe309d565fb12be691df7be54d","rssi":-80,"brand":"Ruuvi","model":"RuuviTag","model_id":"RuuviTag_RAWv2","type":"ACEL","track":true,"tempc":20.85,"tempf":69.53,"hum":99.9975,"pres":926.41,"accx":-0.76099604,"accy":-0.0392266,"accz":-0.45502856,"volt":2.858,"tx":4,"mov":95,"seq":45355,"mac":"E6:91:DF:7B:E5:4D"}
+D NimBLEScan: "erase device: e6:91:df:7b:e5:4d"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "New advertiser: dc:23:4d:59:a9:fa"
+I NimBLEScan: "Updated advertiser: dc:23:4d:59:a9:fa"
+Advertised Device: Name: TY, Address: dc:23:4d:59:a9:fa, manufacturer data: d007800300000100c0fef653b651f090506fd8676312ef4b, serviceUUID: 0xa201
+Service Data:
+UUID: 0xa201, Data:  
+TheengsDecoder found device: {"id":"DC:23:4D:59:A9:FA","name":"TY","manufacturerdata":"d007800300000100c0fef653b651f090506fd8676312ef4b","rssi":-87,"servicedata":"0098d1df1a11b2a14d","servicedatauuid":"0xa201"}
+D NimBLEScan: "erase device: dc:23:4d:59:a9:fa"
+I NimBLEScan: "Updated advertiser: 4d:a5:b4:31:c6:6e"
+I NimBLEScan: "New advertiser: e7:3f:13:9c:2b:e1"
+I NimBLEScan: "Updated advertiser: e7:3f:13:9c:2b:e1"
+Advertised Device: Name: , Address: e7:3f:13:9c:2b:e1, manufacturer data: cc0900000000e73f139c2be1, serviceUUID: 0x7081 
+TheengsDecoder found device: {"id":"E7:3F:13:9C:2B:E1","manufacturerdata":"cc0900000000e73f139c2be1","rssi":-88}
+D NimBLEScan: "erase device: e7:3f:13:9c:2b:e1"
+I NimBLEScan: "Updated advertiser: 5c:03:c6:de:62:51"
+I NimBLEScan: "New advertiser: dc:23:4d:eb:7d:14"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "New advertiser: 82:ea:ca:32:1d:82"
+I NimBLEScan: "Updated advertiser: 82:ea:ca:32:1d:82"
+Advertised Device: Name: TPMS3_321D82, Address: 82:ea:ca:32:1d:82, manufacturer data: 000182eaca321d82a50d0000420900006200, serviceUUID: 0xfbb0 
+TheengsDecoder found device: {"id":"82:EA:CA:32:1D:82","name":"TPMS3_321D82","manufacturerdata":"000182eaca321d82a50d0000420900006200","rssi":-76,"brand":"GENERIC","model":"TPMS","model_id":"TPMS","type":"TIRE","cidc":false,"count":3,"pres":0.03493,"tempc":23.7,"tempf":74.66,"batt":98,"alarm":false,"mac":"82:EA:CA:32:1D:82"}
+D NimBLEScan: "erase device: 82:ea:ca:32:1d:82"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: 5c:03:c6:de:62:51"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "New advertiser: c1:d7:45:64:29:f9"
+Advertised Device: Name: , Address: c1:d7:45:64:29:f9, manufacturer data: 4c0012020000 
+TheengsDecoder found device: {"id":"C1:D7:45:64:29:F9","manufacturerdata":"4c0012020000","rssi":-76,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: c1:d7:45:64:29:f9"
+I NimBLEScan: "New advertiser: 38:1e:c7:81:c6:3c"
+I NimBLEScan: "Updated advertiser: 38:1e:c7:81:c6:3c"
+Advertised Device: Name: MIBFS, Address: 38:1e:c7:81:c6:3c, manufacturer data: 5701381ec781c63c, serviceUUID: 0x181b
+Service Data:
+UUID: 0x181b, Data: ��) 
+TheengsDecoder found device: {"id":"38:1E:C7:81:C6:3C","name":"MIBFS","manufacturerdata":"5701381ec781c63c","rssi":-81,"servicedata":"0284b207010416291f00000a14","servicedatauuid":"0x181b"}
+D NimBLEScan: "erase device: 38:1e:c7:81:c6:3c"
+I NimBLEScan: "Updated advertiser: 5c:03:c6:de:62:51"
+I NimBLEScan: "Updated advertiser: 4d:a5:b4:31:c6:6e"
+I NimBLEScan: "New advertiser: 24:9f:89:50:fb:67"
+I NimBLEScan: "Updated advertiser: 24:9f:89:50:fb:67"
+Advertised Device: Name: T�000032224129, Address: 24:9f:89:50:fb:67, manufacturer data: 0028d2bd235129db0942, serviceUUID: 0x0a00 
+TheengsDecoder found device: {"id":"24:9F:89:50:FB:67","name":"T�000032224129","manufacturerdata":"0028d2bd235129db0942","rssi":-79}
+D NimBLEScan: "erase device: 24:9f:89:50:fb:67"
+I NimBLEScan: "New advertiser: dc:23:4d:a6:18:f6"
+I NimBLEScan: "Updated advertiser: dc:23:4d:a6:18:f6"
+Advertised Device: Name: TY, Address: dc:23:4d:a6:18:f6, manufacturer data: d007800300000100b8e2285207147187fdd24ac5bebccb36, serviceUUID: 0xa201
+Service Data:
+UUID: 0xa201, Data:  
+TheengsDecoder found device: {"id":"DC:23:4D:A6:18:F6","name":"TY","manufacturerdata":"d007800300000100b8e2285207147187fdd24ac5bebccb36","rssi":-75,"servicedata":"0066b471f84195bd28","servicedatauuid":"0xa201"}
+D NimBLEScan: "erase device: dc:23:4d:a6:18:f6"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: dc:23:4d:eb:7d:14"
+Advertised Device: Name: TY, Address: dc:23:4d:eb:7d:14, manufacturer data: d0078003000001005fb0fcf6bdcde7ae924d27f19b24564a, serviceUUID: 0xa201
+Service Data:
+UUID: 0xa201, Data:  
+TheengsDecoder found device: {"id":"DC:23:4D:EB:7D:14","name":"TY","manufacturerdata":"d0078003000001005fb0fcf6bdcde7ae924d27f19b24564a","rssi":-93,"servicedata":"001245102f96e701bb","servicedatauuid":"0xa201"}
+D NimBLEScan: "erase device: dc:23:4d:eb:7d:14"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "New advertiser: e4:51:89:db:6b:24"
+Advertised Device: Name: , Address: e4:51:89:db:6b:24, manufacturer data: 4c0012020001 
+TheengsDecoder found device: {"id":"E4:51:89:DB:6B:24","manufacturerdata":"4c0012020001","rssi":-68,"brand":"Apple","model":"Apple Continuity","model_id":"APPLE_CONT","type":"RMAC","device":"Apple device"}
+D NimBLEScan: "erase device: e4:51:89:db:6b:24"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+I NimBLEScan: "Updated advertiser: db:08:d3:33:38:ef"
+Advertised Device: Name: Ruuvi 38EF, Address: db:08:d3:33:38:ef, manufacturer data: 990405126d4a12ffffff7cfff8fc14965669a2d4db08d33338ef, serviceUUID: 6e400001-b5a3-f393-e0a9-e50e24dcca9e 
+TheengsDecoder found device: {"id":"DB:08:D3:33:38:EF","name":"Ruuvi 38EF","manufacturerdata":"990405126d4a12ffffff7cfff8fc14965669a2d4db08d33338ef","rssi":-82,"brand":"Ruuvi","model":"RuuviTag","model_id":"RuuviTag_RAWv2","type":"ACEL","track":true,"tempc":23.585,"tempf":74.453,"hum":47.405,"pres":1155.35,"accx":-0.12944778,"accy":-0.00784532,"accz":-0.98458766,"volt":2.802,"tx":4,"mov":105,"seq":41684,"mac":"DB:08:D3:33:38:EF"}
+D NimBLEScan: "erase device: db:08:d3:33:38:ef"
+I NimBLEScan: "New advertiser: 82:ea:ca:32:1d:82"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "Updated advertiser: c3:03:89:6e:8d:17"
+I NimBLEScan: "Updated advertiser: c1:ef:52:9b:ea:a3"
+I NimBLEScan: "Updated advertiser: cc:52:69:42:fd:86"
+I NimBLEScan: "New advertiser: e6:91:df:7b:e5:4d"
