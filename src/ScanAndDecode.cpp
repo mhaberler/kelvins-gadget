@@ -1,5 +1,11 @@
 #include <Arduino.h>
+
+#ifdef M5UNIFIED
 #include <M5Unified.h>
+#endif
+#ifdef M5STICKC
+#include <M5StickC.h>
+#endif
 
 #define ARDUINOJSON_USE_LONG_LONG 1
 #include "ArduinoJson.h"
@@ -80,7 +86,13 @@ class MyAdvertisedDeviceCallbacks : public NimBLEAdvertisedDeviceCallbacks {
 };
 
 void setup() {
+#ifdef M5STICKC_PLUS
+#include "M5StickCPlus.h"
+  M5StickC::begin(true, true, true);
+#else
   Serial.begin(115200);
+#endif
+
   Serial.println("Scanning...");
   NimBLEDevice::setScanFilterMode(CONFIG_BTDM_SCAN_DUPL_TYPE_DEVICE);
   NimBLEDevice::setScanDuplicateCacheSize(200);
